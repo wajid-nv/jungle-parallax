@@ -94,3 +94,20 @@ section #text span {
   border-radius: 40px;
   transform: translateY(100px);
 }
+
+.sec {
+  position: relative;
+  padding: 100px;
+  background-color: #094b65;
+}
+
+.sec h2 {
+  font-size: 3.5em;
+  color: #fff;
+  margin-bottom: 10px;
+}
+
+.sec p {
+  font-size: 1em;
+  color: #fff;
+}
